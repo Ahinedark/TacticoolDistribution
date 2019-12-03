@@ -1,0 +1,10 @@
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Debug\TacticoolDistribution.exe.config
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Debug\TacticoolDistribution.exe
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Debug\TacticoolDistribution.pdb
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Debug\TacticoolDistribution.csprojAssemblyReference.cache
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Debug\TacticoolDistribution.csproj.CoreCompileInputs.cache
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Debug\TacticoolDistribution.exe
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Debug\TacticoolDistribution.pdb
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Debug\EPPlus.dll
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Debug\EPPlus.xml
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Debug\TacticoolDistribution.csproj.CopyComplete

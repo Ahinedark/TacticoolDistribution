@@ -1,0 +1,9 @@
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Release\TacticoolDistribution.exe.config
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Release\TacticoolDistribution.exe
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Release\TacticoolDistribution.pdb
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Release\EPPlus.dll
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\bin\Release\EPPlus.xml
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Release\TacticoolDistribution.csproj.CoreCompileInputs.cache
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Release\TacticoolDistribution.csproj.CopyComplete
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Release\TacticoolDistribution.exe
+D:\AhinedarkWB\TacticoolDistribution\TacticoolDistribution\obj\Release\TacticoolDistribution.pdb
